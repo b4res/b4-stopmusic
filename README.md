@@ -1,6 +1,6 @@
 # b4-stopmusic
 
-**b4-stopmusic**, araç içindeki müzikleri tek tuşla durdurmanızı sağlayan QBCore uyumlu basit bir FiveM scriptidir.
+**b4-stopmusic**, oyunun içerisindeki tüm ortam araç vb. sesleri kapatmanıza yarayan scripttir.
 
 ## 🔧 Gereksinimler
 - QBCore (veya ESX'e göre kolayca uyarlanabilir)
